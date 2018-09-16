@@ -1,2 +1,2 @@
 The first commit from BT2
-
+The second commit from BT2.
